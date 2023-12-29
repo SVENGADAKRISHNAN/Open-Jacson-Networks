@@ -1,3 +1,5 @@
+DATE:
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
@@ -18,10 +20,18 @@ Visual components and Python
 
 ## Experiment:
 
+![6 EXP](https://github.com/SVENGADAKRISHNAN/Open-Jacson-Networks/assets/147473084/c7b6d77d-70b9-48a9-b9fc-c5dbac9432b9)
 
-## Program
+## Program:
 
+DEVELOPED BY S.VENGADA KRISHNAN
+
+REG.NO:212223110061
+
+![4](https://github.com/SVENGADAKRISHNAN/Open-Jacson-Networks/assets/147473084/0c2395aa-8e18-4a32-aad7-48c3d83d0adb)
 
 ## Output
+![4 OUT](https://github.com/SVENGADAKRISHNAN/Open-Jacson-Networks/assets/147473084/86f306f4-50df-442f-8efd-133d43c0239b)
 
 ## Result
+![Screenshot from 2023-12-29 10-04-57](https://github.com/SVENGADAKRISHNAN/Open-Jacson-Networks/assets/147473084/8c3775cd-53dc-4721-978b-81a63d0b4cde)
